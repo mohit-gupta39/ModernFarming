@@ -1,10 +1,11 @@
 numpy
 pandas
 Flask
+python == 3.7
 scikit-learn
 requests
 pillow
-gunicorn == 20.0.5
+gunicorn == 0.5
 bcrypt
 flask-wtf
 twilio
