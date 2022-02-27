@@ -4,7 +4,7 @@ Flask
 scikit-learn
 requests
 pillow
-gunicorn == 20.0.4
+gunicorn == 20.0.5
 bcrypt
 flask-wtf
 twilio
