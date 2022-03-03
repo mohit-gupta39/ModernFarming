@@ -1,6 +1,7 @@
 # Harvestsolutions
 Get Informed Decisions About Your Farming Strategy.
 
+<h2><b><a href="https://modernfarming.herokuapp.com/">Click here to see deployment</a></b></h2>
 
 <h4>A simple machine learning based website which recommends best crop to grow, fertilizers to use and the diseases caught by your crops</h4>
 
@@ -15,5 +16,3 @@ In the crop recommendation application, the user can provide the soil data from 
 For the fertilizer recommendation application, the user can input the soil data and the type of crop they are growing, and the application will predict what the soil lacks or has excess of and will recommend improvements.
 
 For the last application, that is the plant disease prediction application, the user can input an image of a diseased plant leaf, and the application will predict what disease it is and will also give a little background about the disease and suggestions to cure it.
-
-# Frameworks used
