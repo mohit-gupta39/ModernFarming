@@ -132,6 +132,7 @@
 					</div>
 				</a>{% endif %}
 			</div>
+			
 			<div class="col-lg-4 col-md-6 blog-right mt-lg-0 mt-5 pt-lg-0 pt-md-5">
 
 				{% if session['username'] %}<a href="{{url_for('user_details')}}"><img
@@ -154,6 +155,21 @@
 						<p class="mt-2">Invest in farms</p>
 					</div>
 				</a>{% endif %}
+			</div>
+			<div class="col-lg-4 col-md-7 blog-middle mb-lg-0 mb-sm-5 pb-lg-0 pb-md-5">
+				<a href="https://harvestsolutions-shop.herokuapp.com/"><img
+						src="{{ url_for('static', filename='images/ecombuy.jpg') }}" class="img-fluid" alt="" /></a>
+			
+				<!-- <a href="https://harvestsolutions-shop.herokuapp.com/"><img
+						src="{{ url_for('static', filename='images/ecombuy.jpg') }}" class="img-fluid" alt="" /></a> -->
+		
+				<a href="https://harvestsolutions-shop.herokuapp.com/">
+					<div class="blog-info">
+						<h4>Buy Agricultural Products Online</h4>
+						<p class="mt-2"></p>
+					</div>
+				</a>
+	
 			</div>
 		</div>
 	</div>
