@@ -1,7 +1,7 @@
 # Harvestsolutions
 Get Informed Decisions About Your Farming Strategy.
 
-<h2><b><a href="https://modernfarming.herokuapp.com/">Click here to see deployment</a></b></h2>
+<h2><b><a href="https://harvestsolutions.herokuapp.com/">Click here to see deployment</a></b></h2>
 
 <h4>A simple machine learning based website which recommends best crop to grow, fertilizers to use and the diseases caught by your crops</h4>
 
